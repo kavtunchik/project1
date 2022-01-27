@@ -1,0 +1,16 @@
+﻿
+.goog-text-highlight {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.skiptranslate {
+    display: none !important;
+    height: 0 !important;
+}
+
+.language__img {
+    cursor: pointer;
+    margin-right: 50%;
+    
+}

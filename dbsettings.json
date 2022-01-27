@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAPTOP-PH5V5I7M\\SQLEXPRESS;Database=Collection;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+  }
+}
